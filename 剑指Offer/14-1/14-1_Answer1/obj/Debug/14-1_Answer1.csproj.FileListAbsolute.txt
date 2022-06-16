@@ -1,0 +1,7 @@
+D:\Code\剑指Offer\14-1\14-1_Answer1\bin\Debug\14-1_Answer1.exe.config
+D:\Code\剑指Offer\14-1\14-1_Answer1\bin\Debug\14-1_Answer1.exe
+D:\Code\剑指Offer\14-1\14-1_Answer1\bin\Debug\14-1_Answer1.pdb
+D:\Code\剑指Offer\14-1\14-1_Answer1\obj\Debug\14-1_Answer1.csproj.AssemblyReference.cache
+D:\Code\剑指Offer\14-1\14-1_Answer1\obj\Debug\14-1_Answer1.csproj.CoreCompileInputs.cache
+D:\Code\剑指Offer\14-1\14-1_Answer1\obj\Debug\14-1_Answer1.exe
+D:\Code\剑指Offer\14-1\14-1_Answer1\obj\Debug\14-1_Answer1.pdb
